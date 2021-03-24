@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\bin\Debug\ColorChooser.exe
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\bin\Debug\ColorChooser.pdb
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\obj\x86\Debug\ColorChooser.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\obj\x86\Debug\ColorChooser.MainForm.resources
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\obj\x86\Debug\ColorChooser.Properties.Resources.resources
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\obj\x86\Debug\ColorChooser.RgbForm.resources
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\obj\x86\Debug\ColorChooser.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\obj\x86\Debug\ColorChooser.exe
+C:\Users\Acer\Desktop\colorfinder-code-dcd7ba8f39f3e8dc60e88abb9c767e118b589b86\ColorChooser\obj\x86\Debug\ColorChooser.pdb
